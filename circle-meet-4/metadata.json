@@ -1,8 +1,0 @@
-{
-  "name": "Circle Meet",
-  "description": "Ultra-luxury video conferencing with a human touch.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
