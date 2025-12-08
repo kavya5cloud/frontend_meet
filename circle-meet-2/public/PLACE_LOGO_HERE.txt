@@ -1,0 +1,6 @@
+
+PLEASE READ:
+
+1. Rename your logo image file to "logo.png" (must be PNG, or update the code in Navbar.tsx/Footer.tsx to match your extension).
+2. Upload/Place the "logo.png" file into this "public" folder.
+3. The website will automatically display it in the Navbar and Footer.
